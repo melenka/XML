@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+ <header>Название баг репорта</header>
+  <id>идентификационный номер</id>
+  <Bug_Summary>Короткое описание</Bug_Summary>
+   <Severity>Серьезность</Severity>
+   <Steps_to_Reproduce>Шаги воспроизведения</Steps_to_Reproduce>
+   <Result>Фактический Результат</Result>
+   <Expected_Result>Ожидаемый результат</Expected_Result>
+   <Attachment>Прикрепленный файл</Attachment>
+</bug_report>
